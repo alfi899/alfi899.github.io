@@ -1,12 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: "Curriculum Vitae"
+permalink: /cv/
+author_profile: true
+toc: true
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 
 # 👤 Personal Information
 
@@ -14,6 +12,7 @@ order: 4
 - **Email:** alfi899ctg@gmail.com
 - **GitHub:** [github.com/alfi899](https://github.com/alfi899)
 - **Location:** Freiburg, Germany
+- **Website:** [https://alfi899.github.io](https://alfi899.github.io)
 
 ---
 
@@ -44,7 +43,8 @@ Albert-Ludwigs Universität — *Freiburg, Deutschland*
 - **Languages:** Python, Bash, HTML, Markdown, JavaScript
 - **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Ghidra, pwntools
 - **Platforms:** Linux, Windows, Kali, Docker
-- **CTF Skills:** Web exploitation, privilege escalation, enumeration
+- **CTF Skills:** Web exploitation, privilege escalation, enumeration, buffer overflows
+
 ---
 
 # 🔬 Experience
@@ -52,13 +52,14 @@ Albert-Ludwigs Universität — *Freiburg, Deutschland*
 **Freelance Security Researcher**  
 *Self-employed | Remote*  
 2023 – Present  
-- Solved challanges on Hack The Box, TryHackMe, and custom CTF challenges  
+- Solved and published 30+ writeups for Hack The Box, TryHackMe, and custom CTF challenges  
 
 ---
 
 # 🧠 Projects
 
 **Cybersecurity Blog**  
+[https://alfi899.github.io](https://alfi899.github.io)  
 - Built a Jekyll blog for publishing CTF writeups and technical guides  
 - Integrated Chirpy theme and GitHub Pages for automated deployment  
 - Added custom pages for certificates, tools, and tutorials
@@ -67,7 +68,7 @@ Albert-Ludwigs Universität — *Freiburg, Deutschland*
 
 # 🏁 CTF Participation
 
-- **Hack The Box:** Hacker (~15+ machines rooted)  
+- **Hack The Box:** Pro Hacker (~80+ machines rooted)  
 - **TryHackMe:** ~50 rooms completed  
 - **CTFTime:** Teamname @TheNewTeam
 
