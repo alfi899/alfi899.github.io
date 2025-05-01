@@ -16,7 +16,7 @@ timezone:
 
 title: "4lf0n5 Cyber Blog" # the main title
 
-tagline: "Cybersecurity Writeups, Certificates, CV" # it will display as the subtitle
+tagline: "Writeups, Certificates, CV" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   "Personal cybersecurity blog by 4lf0n5."
