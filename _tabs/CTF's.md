@@ -14,7 +14,8 @@ I competet in all of these events as a solo player and registerd myself with the
 | 2025-04-18 | DawgCTF 2025                                   | 275          | 760        | 36.18%  |
 | 2025-03-28 | SwampCTF 2025                                  | 256          | 751        | 34.09% |
 | 2025-03-21 | Cyber Apocalypse CTF 2025: Tales from Eldoria  | 1350         | 4038       | 33.43%  |
-| 2025-03-07 | PicoCTF 2025                                   | 2261          | 6533      | 34.60% |
+| 2025-03-07 | PicoCTF 2025                                   | 2261         | 6533       | 34.60% |
+| 2025-03-03 | VishwaCTF 2025                                 | 178          | 730        | 24.38% |
 | 2025 |                                      |           |         |  |
 | 2024-11-15 | D1337UP LIVE CTF                               | 999          | 1061       | 94.10%  |
 | 2024-10-25 | SpookyCTF 2024                                 | 421          | 831        | 50.66% |
@@ -29,15 +30,18 @@ I competet in all of these events as a solo player and registerd myself with the
 | 2024-03-23 | Texas Security Awareness Week 2024             | 222          | 409        | 54.28% |
 | 2024-03-15 | KalmarCTF 2024                                 | 387          | 726        | 53.31% |
 | 2024-03-09 | Cyber Apocalypse 2024: Hacker Royale           | 1184         | 3101       | 38.18% |
+| 2024-03-01 | VishwaCTF 2024                                 | 573          | 1038       | 55.20% |
 | 2024-02-23 | BraekerCTF                                     | 458          | 508        | 90.16% |
 | 2024-02-17 | LA CTF 2024                                    | 1032         | 1074       | 96.09% |
 | 2024-01-06 | IrisCTF 2024                                   | 967          | 1207       | 80.12% |
 | 2024 |                                      |           |         |  |
 | 2023-11-24 | GlacierCTF 2023                                | 748          | 831        | 90.01% |
 | 2023-11-11 | CakeCTF 2023                                   | 673          | 729        | 92.32%|
+| 2023-06-09 | n00bzCTF 2023                                  | 594          | 855        | 69.47%|
 | 2023-05-12 | HeroCTF v5                                     | 685          | 1085       | 63.13% |
 | 2023-04-14 | PlaidCTF 2023                                  | 299          | 622        | 48.07% |
 | 2023-04-07 | Bucket CTF 2023                                | 367          | 500        | 73.40% |
+| 2023-03-31 | VishwaCTF 2023                                 | 260          | 1087       | 23.91% |
 | 2023-03-18 | Cyber Apocalypse 2023: The Cursed Mission      | 2472         | 4493       | 55.02% |
 | 2023 |                                      |           |         |  |
 | 2022-05-14 | Cyber Apocalypse CTF 2022: Intergalactic Chase | 2934         | 3697       | 79.36%  |
