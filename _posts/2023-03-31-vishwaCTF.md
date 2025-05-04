@@ -1,7 +1,7 @@
 ---
 title: "VishwaCTF 2023"
 date: 2023-03-31
-categories: [CTF, Writeups]
+categories: [CTF, Writeup]
 tags: [Web, Stego, Crypto, Rev]
 description: These are the writeups for the n00bzCTF 2023. I participated ended up at
              place 260/1087.
