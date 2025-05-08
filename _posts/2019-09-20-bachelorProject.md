@@ -55,9 +55,12 @@ That means, one coded packet can serve multiple receivers more efficiently.
 At its core, network coding turns messages into vectors and treats forwarding as an algebraic operation. Intermediate nodes 
 compute linear combinations of these message vectors, like so:
 
-```text
-C1 = a1 * M1 + a2 * M2 + ... + an * Mn
-```
+$$
+\begin{equation}
+  C_1 = a_1 \cdot M_1 + a_2 \cdot M_2 + ... + a_n \cdot M_n
+\end{equation}
+$$
+
 At the receiving end, once enough independent combinations are received, the original messages can be recovered by solving a 
 system of linear equations.
 This approach:
