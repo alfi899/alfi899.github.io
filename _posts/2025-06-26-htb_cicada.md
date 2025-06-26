@@ -1,5 +1,5 @@
 ---
-title: "HTB Cicade"
+title: "HTB Cicada"
 date: 2025-06-24
 categories: [HTB, Writeup, Machine]
 tags: [Active Directory]
